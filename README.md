@@ -1,6 +1,7 @@
 # NgComponentWyy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+## nz 前缀会在9.0 版本移除 
 
 ## Development server
 
