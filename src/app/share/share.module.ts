@@ -6,6 +6,6 @@ import { FormsModule } from '@angular/forms';
 @NgModule({
   declarations: [],
   imports: [NgZorroAntdModule, FormsModule, CommonModule],
-  exports: [NgZorroAntdModule, FormsModule]
+  exports: [NgZorroAntdModule, FormsModule, CommonModule]
 })
 export class ShareModule {}
